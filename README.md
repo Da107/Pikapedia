@@ -1,0 +1,2 @@
+# Pikapedia
+About Pokémon
